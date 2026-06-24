@@ -153,8 +153,7 @@ val iqra = Developer(
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-iqra--tabassum03-181717?style=for-the-badge&logo=github)](https://github.com/iqra-tabassum03)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/iqra-tabassum)
+[![Email](https://img.shields.io/badge/Email-iqratabassum1515%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iqratabassum1515@gmail.com)
 
 </div>
 

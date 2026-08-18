@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Iqra%20Tabassum&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Android%20Developer%20%7C%20AI%20Enthusiast%20%7C%20CS%20Graduate&descAlignY=62&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Iqra%20Tabassum&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%2FHCI%20Researcher%20%7C%20CS%20Graduate&descAlignY=62&descAlign=50"/>
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BCD4&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+intelligent+Android+apps+%F0%9F%A4%96;Passionate+about+AI+%2B+Mobile+Development+%F0%9F%93%B1;Learning+never+stops+%F0%9F%8C%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BCD4&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+AI+systems+people+actually+use;AI+ML+and+Human-Computer+Interaction;Learning+never+stops+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,9 +21,9 @@ val iqra = Developer(
     name     = "Iqra Tabassum",
     degree   = "BS Computer Science",
     uni      = "Govt. Islamia Graduate College for Women, Faisalabad",
-    passion  = listOf("Android Dev", "Artificial Intelligence", "Full Stack Web"),
-    current  = "Final Year Project — SignBuddy (ASL Gesture Interpreter)",
-    goal     = "Graduate studies abroad in AI / Mobile Computing",
+    passion  = listOf("AI/ML", "Human-Computer Interaction", "Accessible Technology"),
+    current  = "Final Year Project — SignBuddy (Real-Time ASL Recognition & Learning App)",
+    goal     = "Graduate research abroad in AI/ML and Human-Centered Computing",
     funFact  = "I taught an Android app to read sign language 🤟"
 )
 ```
@@ -104,9 +104,10 @@ val iqra = Developer(
 
 ## 🏆 Highlight Project — SignBuddy
 
-> *My Final Year Project — the project I'm most proud of*
+> *My Final Year Project — where AI meets human-centered design*
 
-**SignBuddy** is a real-time ASL (American Sign Language) gesture interpreter Android app that uses **MediaPipe** computer vision to detect hand gestures from a live camera feed and classify them into ASL letters A–Z — all running on a standard smartphone with no external hardware.
+**SignBuddy** is a real-time ASL (American Sign Language) gesture interpreter Android app built at the intersection of **computer vision** and **accessible design**. It uses **MediaPipe** to detect 21 hand landmarks from a live camera feed, then a custom rule-based classifier reads the geometry to recognize ASL letters A–Z — all running on a standard smartphone, no external hardware, no pretrained model.
+
 📸 Front Camera
 
 ↓
@@ -136,14 +137,24 @@ val iqra = Developer(
 - 👨‍👩‍👧 Parent dashboard with real Firebase session data
 - 🌙 Dark mode + Text-to-Speech accessibility
 
+**📊 Accuracy**
+| Metric | Result |
+|---|---|
+| Overall accuracy | ~87% |
+| Per-letter range | 82–88% |
+| Test participants | 6 (classmates, friends, teachers) |
+| Test sessions | 16 |
+
+This project sits right at the intersection of my two interests: the AI problem of recognizing gestures reliably, and the HCI problem of making that recognition genuinely usable — for a child learning ASL, and a parent following along.
+
 ---
 
 ## 🎯 Currently
 
 - 🎓 Completing **BS Computer Science** — Final Year
 - 🤟 Finishing **SignBuddy** FYP documentation
-- 🌍 Preparing applications for **graduate studies abroad**
-- 📚 Exploring **Deep Learning** and **Computer Vision**
+- 🌍 Preparing graduate applications abroad — AI/ML & Human-Computer Interaction
+- 📚 Exploring Deep Learning and Computer Vision
 - 💡 Always building something new
 
 ---
@@ -153,7 +164,8 @@ val iqra = Developer(
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-iqra--tabassum03-181717?style=for-the-badge&logo=github)](https://github.com/iqra-tabassum03)
-[![Email](https://img.shields.io/badge/Email-iqratabassum1515%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iqratabassum1515@gmail.com)
+[![Outlook](https://img.shields.io/badge/Email-iqratabassum15%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:iqratabassum15@outlook.com)
+[![Gmail](https://img.shields.io/badge/Email-iqratabassum1515%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iqratabassum1515@gmail.com)
 
 </div>
 

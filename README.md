@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BCD4&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+AI+systems+people+actually+use;AI+ML+and+Human-Computer+Interaction;Learning+never+stops+%F0%9F%8C%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BCD4&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Rule-Based+Computer+Vision+for+ASL;Building+Accessible,+Human-Centered+AI;Aspiring+Researcher+in+AI/ML+and+HCI)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,7 +22,7 @@ val iqra = Developer(
     degree   = "BS Computer Science",
     uni      = "Govt. Islamia Graduate College for Women, Faisalabad",
     passion  = listOf("AI/ML", "Human-Computer Interaction", "Accessible Technology"),
-    current  = "Final Year Project — SignBuddy (Real-Time ASL Recognition & Learning App)",
+    current  = "Final Year Project: SignBuddy (Real-Time ASL Recognition & Learning App)",
     goal     = "Graduate research abroad in AI/ML and Human-Centered Computing",
     funFact  = "I taught an Android app to read sign language 🤟"
 )
@@ -102,11 +102,11 @@ val iqra = Developer(
 
 ---
 
-## 🏆 Highlight Project — SignBuddy
+## 🏆 Highlight Project: SignBuddy
 
-> *My Final Year Project — where AI meets human-centered design*
+> *My Final Year Project: where AI meets human-centered design*
 
-**SignBuddy** is a real-time ASL (American Sign Language) gesture interpreter Android app built at the intersection of **computer vision** and **accessible design**. It uses **MediaPipe** to detect 21 hand landmarks from a live camera feed, then a custom rule-based classifier reads the geometry to recognize ASL letters A–Z — all running on a standard smartphone, no external hardware, no pretrained model.
+**SignBuddy** is a real-time ASL (American Sign Language) gesture interpreter Android app built at the intersection of **computer vision** and **accessible design**. It uses **MediaPipe** to detect 21 hand landmarks from a live camera feed, then a custom rule-based classifier reads the geometry to recognize ASL letters A–Z, all running on a standard smartphone, no external hardware, no pretrained model.
 
 📸 Front Camera
 
@@ -132,7 +132,7 @@ val iqra = Developer(
 
 **What makes it special:**
 - 🤟 No trained ML model — pure geometric AI classification
-- 📱 Works on any Android phone — no special hardware
+- 📱 Works on any Android phone, no special hardware
 - 👧 Gamified 5-level learning system for children
 - 👨‍👩‍👧 Parent dashboard with real Firebase session data
 - 🌙 Dark mode + Text-to-Speech accessibility
@@ -145,15 +145,15 @@ val iqra = Developer(
 | Test participants | 6 (classmates, friends, teachers) |
 | Test sessions | 16 |
 
-This project sits right at the intersection of my two interests: the AI problem of recognizing gestures reliably, and the HCI problem of making that recognition genuinely usable — for a child learning ASL, and a parent following along.
+This project sits right at the intersection of my two interests: the AI problem of recognizing gestures reliably, and the HCI problem of making that recognition genuinely usable, for a child learning ASL, and a parent following along.
 
 ---
 
 ## 🎯 Currently
 
-- 🎓 Completing **BS Computer Science** — Final Year
+- 🎓 Completing **BS Computer Science** Final Year
 - 🤟 Finishing **SignBuddy** FYP documentation
-- 🌍 Preparing graduate applications abroad — AI/ML & Human-Computer Interaction
+- 🌍 Preparing graduate applications abroad, AI/ML & Human-Computer Interaction
 - 📚 Exploring Deep Learning and Computer Vision
 - 💡 Always building something new
 
@@ -178,7 +178,7 @@ This project sits right at the intersection of my two interests: the AI problem 
 > *"Every line of code is a step toward making technology more human."*
 
 *From teaching a phone to read sign language,*
-*to building AI assistants in pure logic —*
+*to building AI assistants in pure logic*
 *I believe technology should bridge gaps, not create them.* 🤟
 
 </div>
